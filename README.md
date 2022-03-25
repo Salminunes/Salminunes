@@ -1,5 +1,5 @@
 -Olá, meu nome é Salmi Nunes
 -Sou técnico em informática, aluno do Curso de Sistemas de Informação
--Tenho experiência com Java, JavaWeb, PHP, C e Javascript
+-Tenho breve experiência com Java, JavaWeb, PHP, C e Javascript
 -Tenho experiência com linguagens SQL
 -Monitor de Lógica de Programação e Banco de Dados
